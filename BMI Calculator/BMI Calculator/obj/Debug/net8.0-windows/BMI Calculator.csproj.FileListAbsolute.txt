@@ -1,0 +1,16 @@
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.exe
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.deps.json
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.runtimeconfig.json
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.dll
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.pdb
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI_Calculator.Form1.resources
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfo.cs
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.dll
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\refint\BMI Calculator.dll
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
+C:\Users\vezul\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll
